@@ -1,2 +1,4 @@
 # hexagon_rpg
-Personal game for imporving Unity skills
+Personal project for imporving Unity skills
+
+![Screenshot](screen.png)
